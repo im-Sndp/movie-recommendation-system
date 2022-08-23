@@ -5,6 +5,14 @@
 <ul>
 <li>Dataset used = <a href=""https://grouplens.org/datasets/movielens/100k/"">movielen 100k dataset</a></li>
 <li>We have only deal with the u.data and u.item tables from the dataset .</li>
+<li>modules used</li>
+<ul type="None">
+  <li>pandas</li>
+  <li>numpy</li>
+  <li>matplotlib</li>
+  <li>seabon</li>
 </ul>
+</ul>
+
 
 <p>Its just a sample program so the accuracy may change .</p>
