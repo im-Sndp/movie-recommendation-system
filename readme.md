@@ -1,7 +1,7 @@
 <!-- Movie Recommendation System README -->
 
 <p align="center">
-  <img src="movie-recommendation.jpg" alt="Movie Recommendation"/>
+  <img src="https://cdn-images-1.medium.com/v2/resize:fit:1500/1*leuI7fVkeOrKAIGOOj_T9A.png" alt="Movie Recommendation"/>
 </p>
 
 <h1 align="center">Movie Recommendation System using Correlation</h1>
@@ -50,7 +50,7 @@
 🪄 **Invoke:** Cast the script and let the movie magic unfold.
 
 <p align="center">
-  <img src="movie-night.gif" alt="Movie Night"/>
+  <img src="https://media.tenor.com/0DnrqvZqHGUAAAAC/movie-excited.gif" alt="Movie Night"/>
 </p>
 
 ## Embrace Cinematic Adventures 🎥
